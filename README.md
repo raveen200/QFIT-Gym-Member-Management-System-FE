@@ -2,6 +2,10 @@
 
 **QFIT** is a dynamic gym member management system built using ReactJS and .NET Core. It leverages a microservice architecture for scalability and flexibility. Tailwind CSS and Flowbite UI provide a modern and user-friendly interface for seamless member management.
 
+## Demo
+
+Check out the live demo [here](https://qfit-management.netlify.app/).
+
 ## Features
 
 * **Member Management:** Create, edit, and view member information with ease.
